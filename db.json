@@ -1,6 +1,5 @@
 {
-  "clothes": {
-    "sweaters": [
+  "clothes": [
       {
         "id": 1 ,
         "image": "sweater_01.webp",
@@ -52,9 +51,7 @@
         "size": ["s", "m", "l", "xl"],
         "new": true,
         "quantity": 1
-      }
-    ],
-    "shirts": [
+      },
       {
         "id": 5,
         "image": "shirt_01.webp",
@@ -106,9 +103,7 @@
         "size": ["s", "m", "l", "xl"],
         "new": true,
         "quantity": 1
-      }
-    ],
-    "hoodies": [
+      },
       {
         "id": 9 ,
         "image": "hoodie_01.webp",
@@ -159,7 +154,6 @@
         "size": ["s","m", "l", "xl"],
         "quantity": 1
       }
-    ]
-  }
+  ]
 }
 
