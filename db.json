@@ -154,6 +154,113 @@
         "size": ["s","m", "l", "xl"],
         "quantity": 1
       }
+  ],
+  "images" : [
+    {
+      "id": "1",
+      "slug": "https://sportishka.com/uploads/posts/2022-08/1660327617_5-sportishka-com-p-moto-na-zastavku-krasivo-foto-7.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "2",
+      "slug": "https://i.pinimg.com/originals/de/4a/6f/de4a6f3ddf6124df2c336f460fa969ff.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "3",
+      "slug": "https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666389905_27-mykaleidoscope-ru-p-klassnaya-priroda-oboi-29.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "4",
+      "slug": "https://i.pinimg.com/originals/93/49/56/934956e80a3e65eda11add6c5a524513.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "5",
+      "slug": "https://fonoteka.top/uploads/posts/2021-07/1625697038_3-phonoteka-org-p-pop-art-leto-krasivo-3.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "6",
+      "slug": "https://w.forfun.com/fetch/f1/f1f4cf5680fedc239ec67b788dc679e9.jpeg?w=1470&r=0.5625",
+      "isSelected": false
+    },
+    {
+      "id": "7",
+      "slug": "https://www.wallpapers13.com/wp-content/uploads/2016/03/Grand-Teton-National-Park-Wyoming-Rocky-Mountains-Beautiful-Nature-Mountain-Scenery.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "8",
+      "slug": "https://i.imgur.com/0RCtotw.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "9",
+      "slug": "https://sportishka.com/uploads/posts/2022-11/1667428359_43-sportishka-com-p-marusya-mashina-krasivo-54.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "10",
+      "slug": "https://w.forfun.com/fetch/92/924226a0380498426a287f31894ef15d.jpeg",
+      "isSelected": false
+    },
+    {
+      "id": "11",
+      "slug": "https://w.forfun.com/fetch/ad/ad2d9d7a207d6f4c32133cbbb1b5d8e6.jpeg",
+      "isSelected": false
+    },
+    {
+      "id": "12",
+      "slug": "https://media.filmz.ru/photos/full/filmz.ru_f_192887.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "13",
+      "slug": "https://gas-kvas.com/grafic/uploads/posts/2023-10/1696602056_gas-kvas-com-p-kartinki-s-prirodoi-16.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "13",
+      "slug": "https://media.kg-portal.ru/production/ministryofungentlemanlywarfare/ministryofungentlemanlywarfare_11.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "15",
+      "slug": "https://paoloayroni.ru/wp-content/uploads/c/b/f/cbf665b38b631df0b4da48c44d04a1e0.jpeg",
+      "isSelected": false
+    },
+    {
+      "id": "16",
+      "slug": "https://i.pinimg.com/originals/2b/f7/4e/2bf74ed0a15839a7c0d3290346f64783.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "17",
+      "slug": "https://static.standard.co.uk/homesandproperty/s3fs-public/thumbnails/image/2017/12/21/17/haslemerealamybm9rk8.jpg?width=1200&width=1200&auto=webp&quality=75",
+      "isSelected": false
+    },
+    {
+      "id": "18",
+      "slug": "https://n1s1.hsmedia.ru/f1/1f/2d/f11f2db2f94c2035ef5cb91938ed0b33/1600x960_0xac120003_8414585421586364526.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "19",
+      "slug": "https://artdecory.ru/pictures/full_0082-a-alye-guby.jpg&t=1&bst=1",
+      "isSelected": false
+    },
+    {
+      "id": "20",
+      "slug": "https://u-stena.ru/upload/iblock/ef2/ef2d467a4ca8ec3549eda38f2d40ad66.jpg",
+      "isSelected": false
+    },
+    {
+      "id": "21",
+      "slug": "https://sportishka.com/uploads/posts/2022-11/1667554721_41-sportishka-com-p-baiki-moto-oboi-43.jpg",
+      "isSelected": false
+    }
   ]
 }
 
