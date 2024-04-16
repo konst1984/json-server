@@ -262,18 +262,16 @@
       "isSelected": false
     }
   ],
-  "nike_shoes": {
-    "id": "jordans",
-    "shoes": [
+  "jordans":  [
               {
-                "id": 1,
+                "id": "air_jordan_1_mid_se_craft",
                 "title": "Air Jordan 1 Mid SE Craft",
-                "thumbnail": "p1_air_jordan_1_mid_se/thumbnail.webp",
+                "thumbnail": "air_jordan_1_mid_se_craft/thumbnail.webp",
                 "images": [
-                  "p1_air_jordan_1_mid_se/1.webp",
-                  "p1_air_jordan_1_mid_se/2.webp",
-                  "p1_air_jordan_1_mid_se/3.webp",
-                  "p1_air_jordan_1_mid_se/4.webp"
+                  "air_jordan_1_mid_se_craft/1.webp",
+                  "air_jordan_1_mid_se_craft/2.webp",
+                  "air_jordan_1_mid_se_craft/3.webp",
+                  "air_jordan_1_mid_se_craft/4.webp"
                 ],
                 "price": 150,
                 "sizes": [
@@ -388,7 +386,7 @@
                 ]
               },
               {
-                "id": 2,
+                "id": "p1_air_jordan_1_mid_se",
                 "title": "p1 Air Jordan 1 Mid SE",
                 "thumbnail": "p1_air_jordan_1_mid_se/thumbnail.webp",
                 "images": [
@@ -510,7 +508,7 @@
                 ]
               },
               {
-                "id": 3,
+                "id": "p2_Air_Jordan_XXXVII_Low_PF",
                 "title": "p2 Air Jordan XXXVII Low PF",
                 "thumbnail": "p2_Air_Jordan_XXXVII_Low_PF/thumbnail.webp",
                 "images": [
@@ -632,7 +630,7 @@
                 ]
               },
               {
-                "id": 4,
+                "id": "p3_Jordan_Why_Not_.6_PF",
                 "title": "p3 Jordan Why Not .6 PF",
                 "thumbnail": "p3_Jordan_Why_Not_.6_PF/thumbnail.webp",
                 "images": [
@@ -754,7 +752,7 @@
                 ]
               },
               {
-                "id": 5,
+                "id": "p4_Jordan_Stay_Loyal_2",
                 "title": "p4 Jordan Stay Loyal 2",
                 "thumbnail": "p4_Jordan_Stay_Loyal_2/thumbnail.webp",
                 "images": [
@@ -878,7 +876,7 @@
                 ]
               },
               {
-                "id": 6,
+                "id": "p5_Jordan_Delta_3_Low",
                 "title": "p5 Jordan Delta 3 Low",
                 "thumbnail": "p5_Jordan_Delta_3_Low/thumbnail.webp",
                 "images": [
@@ -1000,7 +998,7 @@
                 ]
               },
               {
-                "id": 7,
+                "id": "p6_Air_Jordan_13_Retro",
                 "title": "p6 Air Jordan 13 Retro",
                 "thumbnail": "p6_Air_Jordan_13_Retro/thumbnail.webp",
                 "images": [
@@ -1122,7 +1120,7 @@
                 ]
               },
               {
-                "id": 8,
+                "id": "p7_Air_Jordan_6_Retro",
                 "title": "p7 Air Jordan 6 Retro",
                 "thumbnail": "p7_Air_Jordan_6_Retro/thumbnail.webp",
                 "images": [
@@ -1244,7 +1242,7 @@
                 ]
               },
               {
-                "id": 9,
+                "id": "p8_Air_Jordan_1_Retro_High_OG",
                 "title": "p8 Air Jordan 1 Retro High OG",
                 "thumbnail": "p8_Air_Jordan_1_Retro_High_OG/thumbnail.webp",
                 "images": [
@@ -1366,7 +1364,7 @@
                 ]
               },
               {
-                "id": 10,
+                "id": "Air_Jordan_4",
                 "title": "Air Jordan 4",
                 "thumbnail": "Air_Jordan_4/thumbnail.webp",
                 "images": [
@@ -1488,7 +1486,7 @@
                 ]
               },
               {
-                "id": 11,
+                "id": "Air_Jordan_9_Retro_Powder_Blue",
                 "title": "Air Jordan 9 Retro 'Powder Blue'",
                 "thumbnail": "Air_Jordan_9_Retro_Powder_Blue/thumbnail.webp",
                 "images": [
@@ -1609,7 +1607,6 @@
                   }
                 ]
               }
-            ]
-  }
+  ]
 }
 
