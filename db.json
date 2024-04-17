@@ -262,9 +262,10 @@
       "isSelected": false
     }
   ],
-  "jordans":  [
+  "jordan":  [
               {
                 "id": "air_jordan_1_mid_se_craft",
+                "category": "Men's Shoes",
                 "title": "Air Jordan 1 Mid SE Craft",
                 "thumbnail": "air_jordan_1_mid_se_craft/thumbnail.webp",
                 "images": [
@@ -281,19 +282,19 @@
                   },
                   {
                     "size": 4,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 4.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 5.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 6,
@@ -305,7 +306,7 @@
                   },
                   {
                     "size": 7,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 7.5,
@@ -361,11 +362,11 @@
                   },
                   {
                     "size": 14,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 14.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 15,
@@ -373,20 +374,21 @@
                   },
                   {
                     "size": 15.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 16,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 16.5,
-                    "enabled": true
+                    "enabled": false
                   }
                 ]
               },
               {
                 "id": "p1_air_jordan_1_mid_se",
+                "category": "Men's Shoes",
                 "title": "p1 Air Jordan 1 Mid SE",
                 "thumbnail": "p1_air_jordan_1_mid_se/thumbnail.webp",
                 "images": [
@@ -399,11 +401,11 @@
                 "sizes": [
                   {
                     "size": 3.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 4,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 4.5,
@@ -411,7 +413,7 @@
                   },
                   {
                     "size": 5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 5.5,
@@ -423,11 +425,11 @@
                   },
                   {
                     "size": 6.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 7,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 7.5,
@@ -435,11 +437,11 @@
                   },
                   {
                     "size": 8,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 8.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 9,
@@ -447,7 +449,7 @@
                   },
                   {
                     "size": 9.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 10,
@@ -463,11 +465,11 @@
                   },
                   {
                     "size": 11.5,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 12,
-                    "enabled": true
+                    "enabled": false
                   },
                   {
                     "size": 12.5,
@@ -509,6 +511,7 @@
               },
               {
                 "id": "p2_Air_Jordan_XXXVII_Low_PF",
+                "category": "Basketball Shoes",
                 "title": "p2 Air Jordan XXXVII Low PF",
                 "thumbnail": "p2_Air_Jordan_XXXVII_Low_PF/thumbnail.webp",
                 "images": [
@@ -631,6 +634,7 @@
               },
               {
                 "id": "p3_Jordan_Why_Not_.6_PF",
+                "category": "Basketball Shoes",
                 "title": "p3 Jordan Why Not .6 PF",
                 "thumbnail": "p3_Jordan_Why_Not_.6_PF/thumbnail.webp",
                 "images": [
@@ -753,6 +757,7 @@
               },
               {
                 "id": "p4_Jordan_Stay_Loyal_2",
+                "category":"Men's Shoes",
                 "title": "p4 Jordan Stay Loyal 2",
                 "thumbnail": "p4_Jordan_Stay_Loyal_2/thumbnail.webp",
                 "images": [
@@ -877,6 +882,7 @@
               },
               {
                 "id": "p5_Jordan_Delta_3_Low",
+                "category":"Men's Shoes",
                 "title": "p5 Jordan Delta 3 Low",
                 "thumbnail": "p5_Jordan_Delta_3_Low/thumbnail.webp",
                 "images": [
@@ -999,6 +1005,7 @@
               },
               {
                 "id": "p6_Air_Jordan_13_Retro",
+                "category": "Basketball Shoes",
                 "title": "p6 Air Jordan 13 Retro",
                 "thumbnail": "p6_Air_Jordan_13_Retro/thumbnail.webp",
                 "images": [
@@ -1121,6 +1128,7 @@
               },
               {
                 "id": "p7_Air_Jordan_6_Retro",
+                "category": "Basketball Shoes",
                 "title": "p7 Air Jordan 6 Retro",
                 "thumbnail": "p7_Air_Jordan_6_Retro/thumbnail.webp",
                 "images": [
@@ -1243,6 +1251,7 @@
               },
               {
                 "id": "p8_Air_Jordan_1_Retro_High_OG",
+                "category": "Men's Shoes",
                 "title": "p8 Air Jordan 1 Retro High OG",
                 "thumbnail": "p8_Air_Jordan_1_Retro_High_OG/thumbnail.webp",
                 "images": [
@@ -1365,6 +1374,7 @@
               },
               {
                 "id": "Air_Jordan_4",
+                "category": "Men's Shoes",
                 "title": "Air Jordan 4",
                 "thumbnail": "Air_Jordan_4/thumbnail.webp",
                 "images": [
@@ -1487,6 +1497,7 @@
               },
               {
                 "id": "Air_Jordan_9_Retro_Powder_Blue",
+                "category": "Men's Shoes",
                 "title": "Air Jordan 9 Retro 'Powder Blue'",
                 "thumbnail": "Air_Jordan_9_Retro_Powder_Blue/thumbnail.webp",
                 "images": [
